@@ -17,6 +17,6 @@
 
 - Google Cybersecurity Professional Certificate 
 - TryHacKme Security Engineer Certificate
-- Qualsy Vunerability Management Foundation
+- Qualys Vunerability Management Foundation
 
 
