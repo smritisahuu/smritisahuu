@@ -16,6 +16,7 @@
 <h2>📃Certifications</h2>
 
 - Google Cybersecurity Professional Certificate (https://coursera.org/share/cba3e014a9d3571f4a6dba90945c5a8c)
+- TryHacKme Security Engineer Certificate
 - Qualsy Vunerability Management Foundation
 
 
