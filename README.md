@@ -2,10 +2,10 @@
 
 <h2> 👩‍💻Cybersecurity Projects:</h2>
 
-- <b>[ Wireshark:Capture Packets](https://coursera.org/share/011a7887a4e3eda11059443a13d33ba6)</b>
-  - 
+- <b>Network Spyglass: Wireshark & tcpdump in Action</b>
+  - [ Wireshark:Capture Packets](https://coursera.org/share/011a7887a4e3eda11059443a13d33ba6)
   
-- <b>Python</b>
+- <b>Recon, Security & Automation with Python</b>
   - 
 
 <h2>📃Certifications</h2>
