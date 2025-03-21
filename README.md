@@ -12,6 +12,7 @@
 
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/cba3e014a9d3571f4a6dba90945c5a8c) 
 - [TryHacKme Security Engineer Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IPPIEG9CSS.pdf)
+- [InfoSec OWASP Top 10 - 2021](https://coursera.org/share/6d0a7d4d6cc5194c639a9f85b58de634)
 - Qualys Vunerability Management Foundation
 
 
