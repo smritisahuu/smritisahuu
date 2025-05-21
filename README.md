@@ -20,7 +20,7 @@
   <li><b>Image Encryption via Pixel Manipulation</b>
     <ul>
       <li>A Python program that encrypts and decrypts images by shuffling pixel data using a secret key.</li>
-      <li><a href="https://github.com/YOUR-USERNAME/cybersecurity-projects/blob/main/Image-Encryption/encrypt_decrypt_image.py" target="_blank">View Code on GitHub</a></li>
+      <li><a href="https://github.com/smritisahuu/cybersecurity-projects/blob/main/encrypt_decrypt_image.py" target="_blank">View Code on GitHub</a></li>
     </ul>
   </li>
 
