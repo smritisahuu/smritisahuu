@@ -5,7 +5,7 @@
 - <b>Network Spyglass: Wireshark & tcpdump in Action</b>
   - [ Wireshark:Capture Packets](https://coursera.org/share/011a7887a4e3eda11059443a13d33ba6)
   
-- <b>Recon, Security & Automation with Python</b>
+- <b></b>
   - 
 
 <h2>📃Certifications</h2>
