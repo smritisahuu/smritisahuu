@@ -29,7 +29,7 @@
     encrypted = caesar_cipher(message, shift_value)
     print("Encrypted:", encrypted)
     ```
-  - [View Code on GitHub](https://github.com/YOUR-USERNAME/cybersecurity-projects/blob/main/Caesar-Cipher/caesar_cipher.py)
+  - [View Code on GitHub](https://github.com/smritisahuu/cybersecurity-projects/blob/main/Caesar-Cipher/caesar_cipher.py)
 
   
   <li><b>Image Encryption via Pixel Manipulation</b>
