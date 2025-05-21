@@ -12,6 +12,7 @@
 <li><b>Implementing Caesar Cipher</b>
   <ul>
     <li>A Python tool that allows users to input a message and shift value to perform encryption and decryption using the classic Caesar Cipher algorithm.</li>
+    <li><a href="https://github.com/YOUR-USERNAME/cybersecurity-projects/blob/main/Image-Encryption/encrypt_decrypt_image.py" target="_blank">View Code on GitHub</a></li>
   </ul>
 </li>
 
