@@ -27,7 +27,7 @@
   <li><b>Password Complexity Checker</b>
     <ul>
       <li>A Python script to assess the strength of passwords based on length, use of uppercase, lowercase, digits, and symbols.</li>
-      <li><a href="https://github.com/YOUR-USERNAME/cybersecurity-projects/blob/main/Password-Checker/password_checker.py" target="_blank">View Code on GitHub</a></li>
+      <li><a href="https://github.com/smritisahuu/cybersecurity-projects/blob/main/password_checker.py" target="_blank">View Code on GitHub</a></li>
     </ul>
   </li>
 
