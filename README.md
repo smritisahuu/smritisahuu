@@ -12,7 +12,7 @@
 <li><b>Implementing Caesar Cipher</b>
   <ul>
     <li>A Python tool that allows users to input a message and shift value to perform encryption and decryption using the classic Caesar Cipher algorithm.</li>
-    <li><a href="https://github.com/smritisahuu/cybersecurity-projects/blob/main/caesar_cipher.py" target="_blank">View Code on GitHub</a></li>
+    <li><a href="https://github.com/smritisahuu/cybersecurity-projects/blob/main/caesar_cipher.py" target="_blank">View Code</a></li>
   </ul>
 </li>
 
@@ -20,21 +20,21 @@
   <li><b>Image Encryption via Pixel Manipulation</b>
     <ul>
       <li>A Python program that encrypts and decrypts images by shuffling pixel data using a secret key.</li>
-      <li><a href="https://github.com/smritisahuu/cybersecurity-projects/blob/main/encrypt_decrypt_image.py" target="_blank">View Code on GitHub</a></li>
+      <li><a href="https://github.com/smritisahuu/cybersecurity-projects/blob/main/encrypt_decrypt_image.py" target="_blank">View Code </a></li>
     </ul>
   </li>
 
   <li><b>Password Complexity Checker</b>
     <ul>
       <li>A Python script to assess the strength of passwords based on length, use of uppercase, lowercase, digits, and symbols.</li>
-      <li><a href="https://github.com/smritisahuu/cybersecurity-projects/blob/main/password_checker.py" target="_blank">View Code on GitHub</a></li>
+      <li><a href="https://github.com/smritisahuu/cybersecurity-projects/blob/main/password_checker.py" target="_blank">View Code </a></li>
     </ul>
   </li>
 
   <li><b>Keylogger Program (Educational Purpose Only)</b>
     <ul>
       <li>A Python keylogger that records and logs keystrokes for research and ethical learning purposes.</li>
-      <li><a href="https://github.com/YOUR-USERNAME/cybersecurity-projects/blob/main/Keylogger/keylogger.py" target="_blank">View Code on GitHub</a></li>
+      <li><a href="https://github.com/smritisahuu/cybersecurity-projects/blob/main/keylogger.py" target="_blank">View Code </a></li>
     </ul>
   </li>
 </ul>
